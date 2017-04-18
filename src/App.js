@@ -10,6 +10,7 @@ const PLACES = [
   { name: "San Jose", zip: "94088" },
   { name: "Santa Cruz", zip: "95062" },
   { name: "Berkeley", zip: "94704"},
+  { name: "Milpitas", zip: "95035"},
   { name: "Honolulu", zip: "96803" }
 ];
 
